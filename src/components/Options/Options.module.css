@@ -1,0 +1,14 @@
+.options {
+    padding: 6px;
+}
+
+.btnOption {
+    padding: 6px;
+    font-size: 16px;
+    margin-right: 4px;
+}
+
+.btnHidden {
+    display: none;
+}
+
